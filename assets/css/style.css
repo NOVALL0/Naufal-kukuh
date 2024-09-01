@@ -133,7 +133,7 @@ nav{
 }
 .active-link{
     position: relative;
-    color: var(--first-color);
+    color: white;
     transition: .3;
 }
 .active-link::after{
